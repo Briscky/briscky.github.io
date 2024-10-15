@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Briscky&#39;s blog</title>
   
-  <subtitle>Briscky的地平线</subtitle>
+  <subtitle>相信海的尽头是烈火燎原</subtitle>
   <link href="http://briscky.github.io/atom.xml" rel="self"/>
   
   <link href="http://briscky.github.io/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>启真湖底摸鱼人</title>
-    <link href="http://briscky.github.io/2023/01/21/qi-zhen-hu-di-mo-yu-ren/"/>
-    <id>http://briscky.github.io/2023/01/21/qi-zhen-hu-di-mo-yu-ren/</id>
+    <link href="http://briscky.github.io/fu-pan/qi-zhen-hu-di-mo-yu-ren/"/>
+    <id>http://briscky.github.io/fu-pan/qi-zhen-hu-di-mo-yu-ren/</id>
     <published>2023-01-21T10:10:43.000Z</published>
     <updated>2023-01-21T10:20:01.683Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>路标与地图</title>
-    <link href="http://briscky.github.io/2022/10/04/lu-biao-yu-di-tu/"/>
-    <id>http://briscky.github.io/2022/10/04/lu-biao-yu-di-tu/</id>
+    <link href="http://briscky.github.io/fu-pan/lu-biao-yu-di-tu/"/>
+    <id>http://briscky.github.io/fu-pan/lu-biao-yu-di-tu/</id>
     <published>2022-10-04T07:45:42.000Z</published>
     <updated>2022-10-04T07:47:41.160Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>嘿，ICS！</title>
-    <link href="http://briscky.github.io/2022/08/01/mo-ics/"/>
-    <id>http://briscky.github.io/2022/08/01/mo-ics/</id>
+    <link href="http://briscky.github.io/fu-pan/mo-ics/"/>
+    <id>http://briscky.github.io/fu-pan/mo-ics/</id>
     <published>2022-08-01T15:08:19.000Z</published>
     <updated>2022-08-01T15:09:42.155Z</updated>
     
@@ -100,8 +100,8 @@
   
   <entry>
     <title>校友林中击剑记</title>
-    <link href="http://briscky.github.io/2022/07/04/xiao-you-lin-zhong-ji-jian-ji/"/>
-    <id>http://briscky.github.io/2022/07/04/xiao-you-lin-zhong-ji-jian-ji/</id>
+    <link href="http://briscky.github.io/fu-pan/xiao-you-lin-zhong-ji-jian-ji/"/>
+    <id>http://briscky.github.io/fu-pan/xiao-you-lin-zhong-ji-jian-ji/</id>
     <published>2022-07-04T13:28:19.000Z</published>
     <updated>2022-07-04T13:30:02.788Z</updated>
     
@@ -125,8 +125,8 @@
   
   <entry>
     <title>微光</title>
-    <link href="http://briscky.github.io/2022/03/13/wei-guang/"/>
-    <id>http://briscky.github.io/2022/03/13/wei-guang/</id>
+    <link href="http://briscky.github.io/man-bu/wei-guang/"/>
+    <id>http://briscky.github.io/man-bu/wei-guang/</id>
     <published>2022-03-13T14:00:15.000Z</published>
     <updated>2022-11-11T13:15:43.560Z</updated>
     
@@ -151,8 +151,8 @@
   
   <entry>
     <title>阳明桥上沉思录</title>
-    <link href="http://briscky.github.io/2022/02/14/yang-ming-qiao-shang-chen-si-lu/"/>
-    <id>http://briscky.github.io/2022/02/14/yang-ming-qiao-shang-chen-si-lu/</id>
+    <link href="http://briscky.github.io/fu-pan/yang-ming-qiao-shang-chen-si-lu/"/>
+    <id>http://briscky.github.io/fu-pan/yang-ming-qiao-shang-chen-si-lu/</id>
     <published>2022-02-14T07:15:43.000Z</published>
     <updated>2022-07-04T13:32:30.541Z</updated>
     
@@ -176,8 +176,8 @@
   
   <entry>
     <title>回首射雕处，千里暮云平</title>
-    <link href="http://briscky.github.io/2022/01/21/hui-shou-she-diao-chu-qian-li-mu-yun-ping/"/>
-    <id>http://briscky.github.io/2022/01/21/hui-shou-she-diao-chu-qian-li-mu-yun-ping/</id>
+    <link href="http://briscky.github.io/man-bu/hui-shou-she-diao-chu-qian-li-mu-yun-ping/"/>
+    <id>http://briscky.github.io/man-bu/hui-shou-she-diao-chu-qian-li-mu-yun-ping/</id>
     <published>2022-01-21T13:57:25.000Z</published>
     <updated>2023-12-18T12:13:34.792Z</updated>
     
@@ -202,8 +202,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://briscky.github.io/2021/11/19/hello-world/"/>
-    <id>http://briscky.github.io/2021/11/19/hello-world/</id>
+    <link href="http://briscky.github.io/uncategorized/hello-world/"/>
+    <id>http://briscky.github.io/uncategorized/hello-world/</id>
     <published>2021-11-19T09:28:25.000Z</published>
     <updated>2022-07-05T03:19:46.162Z</updated>
     
